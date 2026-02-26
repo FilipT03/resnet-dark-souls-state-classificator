@@ -1,0 +1,7 @@
+opencv-python
+yt-dlp
+tensorflow
+matplotlib
+scikit-learn
+numpy
+seaborn
